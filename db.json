@@ -1,0 +1,52 @@
+{
+	"users": [
+	  {
+		"name": "Nick Hill",
+		"salary": "20000",
+		"jobTitle": "Computer Scientist",
+		"id": "L4ezzmf"
+	  },
+	  {
+		"name": "Nick Hell",
+		"jobTitle": "Udemy Instructor",
+		"salary": "20000",
+		"id": "qu3JCx0"
+	  },
+	  {
+		"name": "sNickeret",
+		"jobTitle": "Computer Scientist & Data Scientist",
+		"salary": "20000",
+		"id": "1dydlMK"
+	  },
+	  {
+		"name": "Snicker hill",
+		"salary": "9000",
+		"jobTitle": "Computer Sciencetis & Engineer",
+		"id": "P98vP39"
+	  },
+	  {
+		"name": "Doggy Don",
+		"salary": "30000",
+		"jobTitle": "Udemy Instructor",
+		"id": "PXvToJV"
+	  },
+	  {
+		  "name": "Masak Ali",
+		  "salary": "20000",
+		  "jobTitle": "Scientist",
+		  "id": "L4ezzmf"
+	  },
+	  {
+		  "name": "jijitsu",
+		  "salary": "16500",
+		  "jobTitle": "Industry Engineer",
+		  "id": "L4ezzmf"
+	  },
+	  {
+		  "name": "Lolcat",
+		  "salary": "17500",
+		  "jobTitle": "Mechanical Engineer",
+		  "id": "L4ezzmf"
+	  }
+	]
+  }
